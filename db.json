@@ -2,69 +2,32 @@
     "usuarios": [
       {
         "id": "1",
+        "avatar":"https://i.ibb.co/5GXp4dJ/f3af2127c0257d182c38af649d7b2a7b.jpg",
         "nome": "rian",
         "senha": "11111",
         "posts": [
           {
             "id": "1",
-            "titulo": "",
+            "titulo": "titulo_1",
             "post": "post_1"
           },
           {
             "id": "2",
-            "titulo": "",
+            "titulo": "titulo_1",
             "post": "post_2"
           }
         ]
       },
       {
-        "id": "2",
-        "nome": "joão",
-        "senha": "22222",
-        "posts": [
-          {
-            "id": "1",
-            "titulo": "",
-            "post": "post_3"
-          },
-          {
-            "id": "2",
-            "titulo": "",
-            "post": "post_4"
-          }
-        ]
-      },
-      {
-        "id": "3",
-        "nome": "rika",
-        "senha": "33333",
-        "posts": [
-          {
-            "id": "1",
-            "titulo": "",
-            "post": "post_5"
-          },
-          {
-            "id": "2",
-            "titulo": "",
-            "post": "post_6"
-          }
-        ]
-      },
-      {
-        "id": "37eb1f4a-598a-4241-97ed-6013c38e3c98",
-        "posts": [],
-        "nome": "jota",
-        "senha": "12345"
-      },
-      {
         "id": "16d260d3-0dad-4e39-8ee6-7fa7c3528fd9",
         "nome": "jota",
+        "avatar":"https://i.ibb.co/5GXp4dJ/f3af2127c0257d182c38af649d7b2a7b.jpg",
         "posts": [],
         "senha": "12345"
       },
       {
         "id": "f5bd511f-60a2-4e5b-98f6-7254b0b300e4",
+        "avatar":"https://i.ibb.co/5GXp4dJ/f3af2127c0257d182c38af649d7b2a7b.jpg",
         "posts": [],
         "nome": "jaime",
         "senha": "222"
